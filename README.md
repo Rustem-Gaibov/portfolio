@@ -6,4 +6,4 @@
 
 Фото
 
-![alt text](../baby-cheetah-fkh6iyqvig3yriej.jpg)
+![alt text](baby-cheetah-fkh6iyqvig3yriej.jpg)
